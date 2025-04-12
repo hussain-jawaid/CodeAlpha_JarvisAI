@@ -1,6 +1,6 @@
 # JarvisAI 🤖
 
-JarvisAI is a voice-activated AI assistant built with Python that can perform various smart tasks to make your workflow faster and smoother.
+JarvisAI is a voice-activated AI assistant built with Python that can perform various smart tasks to speed up and smooth out your workflow.
 
 ## ✨ Features
 
@@ -23,5 +23,4 @@ JarvisAI is a voice-activated AI assistant built with Python that can perform va
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/JarvisAI.git
-   cd JarvisAI
+   git clone https://github.com/hussain-jawaid/CodeAlpha_JarvisAI
