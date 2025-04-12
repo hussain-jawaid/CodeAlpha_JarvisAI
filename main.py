@@ -1,5 +1,4 @@
 import speech_recognition as sr
-import os
 import webbrowser
 
 from ai_works import ai, chat_ai, extract_site_name
